@@ -1,0 +1,61 @@
+{
+    "urls": ["https://nexss.com/"],
+    "applications": [{
+            "name": "animate.css",
+            "confidence": "100",
+            "version": "",
+            "icon": "default.svg",
+            "website": "https://daneden.github.io/animate.css/",
+            "categories": [{ "18": "Web Frameworks" }]
+        },
+        {
+            "name": "Apache",
+            "confidence": "100",
+            "version": "2",
+            "icon": "Apache.svg",
+            "website": "http://apache.org",
+            "categories": [{ "22": "Web Servers" }]
+        },
+        {
+            "name": "Font Awesome",
+            "confidence": "100",
+            "version": "",
+            "icon": "Font Awesome.png",
+            "website": "http://fontawesome.io",
+            "categories": [{ "17": "Font Scripts" }]
+        },
+        {
+            "name": "Google Analytics",
+            "confidence": "100",
+            "version": "UA",
+            "icon": "Google Analytics.svg",
+            "website": "http://google.com/analytics",
+            "categories": [{ "10": "Analytics" }]
+        },
+        {
+            "name": "Google Font API",
+            "confidence": "100",
+            "version": "",
+            "icon": "Google Font API.png",
+            "website": "http://google.com/fonts",
+            "categories": [{ "17": "Font Scripts" }]
+        },
+        {
+            "name": "Bootstrap",
+            "confidence": "100",
+            "version": "3.3.7",
+            "icon": "Bootstrap.svg",
+            "website": "https://getbootstrap.com",
+            "categories": [{ "18": "Web Frameworks" }]
+        },
+        {
+            "name": "jQuery",
+            "confidence": "100",
+            "version": "3.2.1",
+            "icon": "jQuery.svg",
+            "website": "https://jquery.com",
+            "categories": [{ "12": "JavaScript Frameworks" }]
+        }
+    ],
+    "meta": { "language": "en" }
+}

@@ -1,0 +1,6 @@
+name: Docker
+debug: true
+files:
+  - name: src/docker.ps1
+errors:
+  ": error during connect: Post": "Maybe you need to start VirtualBox default? Try to run: docker-machine start default"
